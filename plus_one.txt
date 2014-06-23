@@ -8,7 +8,7 @@ yq      1
 lzy     1
 mmk     0
 wyg     2
-lxh     4
+lxh     0
 nfx     2
 tjp     3
 cps     3
