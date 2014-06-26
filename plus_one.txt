@@ -11,4 +11,4 @@ wyg     2
 lxh     0
 nfx     2
 tjp     3
-cps     3
+cps     -1
