@@ -1,7 +1,7 @@
-zzh     4
+zzh     0
 zzj     1
 kyz     0
-zls     8
+zls     4
 lzj     0
 pjh     0
 yq      1
@@ -9,6 +9,6 @@ lzy     1
 mmk     0
 wyg     2
 lxh     0
-nfx     2
+nfx     0
 tjp     3
 cps     -1
