@@ -2,7 +2,7 @@ zzh     0
 zzj     0
 kyz     1
 zls     1
-lzj     2
+lzj     3
 pjh     1
 yq      3
 lzy     0
