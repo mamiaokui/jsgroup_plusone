@@ -9,7 +9,7 @@ lzy     0
 mmk     0
 wyg     2
 lxh     1
-nfx     0
+nfx     1
 tjp     1
 cps     -1
 yyy     -3
