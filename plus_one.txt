@@ -4,11 +4,10 @@ kyz     1
 zls     1
 lzj     -1
 pjh     1
-yq      3
 lzy     0
 mmk     0
 wyg     2
-lxh     1
+lxh     4
 nfx     1
 tjp     1
 cps     -1
