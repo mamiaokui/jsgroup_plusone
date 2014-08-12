@@ -1,14 +1,14 @@
 zzh     0
-zzj     1
+zzj     2
 kyz     1
 zls     1
 lzj     -1
 pjh     1
-lzy     1
+lzy     2
 mmk     0
 wyg     2
 lxh     4
 nfx     1
 tjp     1
 cps     -1
-yyy     -3
+yyy     -2
